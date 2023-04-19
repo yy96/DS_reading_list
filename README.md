@@ -2,7 +2,7 @@
 
 - System Overview:
 
-Meituan food allocation system [1](https://tech.meituan.com/2020/02/20/meituan-delivery-operations-research.html) [2](https://tech.meituan.com/2017/10/11/o2o-intelligent-distribution.html)
+Meituan food allocation system ([1])(https://tech.meituan.com/2020/02/20/meituan-delivery-operations-research.html) ([2])(https://tech.meituan.com/2017/10/11/o2o-intelligent-distribution.html)
 
 - Experimentation:
 
