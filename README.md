@@ -12,3 +12,6 @@
   - [Matching Drivers to Riders: A Two-stage Robust Approach](https://download.arxiv.org/pdf/2011.03624v2.pdf)
   - on-demand food delivery problem
     - [An Imitation Learning-Enhanced Iterated Matching Algorithm for On-Demand Food Delivery](https://ieeexplore.ieee.org/abstract/document/9750976)
+
+- Pricing:
+  - [Left-Digit Bias at Lyft](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdad014/7045819?redirectedFrom=fulltext)  
