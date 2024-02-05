@@ -15,3 +15,6 @@
 
 - Pricing:
   - [Left-Digit Bias at Lyft](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdad014/7045819?redirectedFrom=fulltext)  
+
+- Overview:
+  - [Deep Learning Application](https://d2l.ai/chapter_preface/index.html)
