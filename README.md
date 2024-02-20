@@ -12,7 +12,7 @@
   - [Matching Drivers to Riders: A Two-stage Robust Approach](https://download.arxiv.org/pdf/2011.03624v2.pdf)
   - on-demand food delivery problem
     - [An Imitation Learning-Enhanced Iterated Matching Algorithm for On-Demand Food Delivery](https://ieeexplore.ieee.org/abstract/document/9750976)
-  - [ETA prediction in Meituan[
+  - ETA prediction in Meituan
     - [Overview](https://tech.meituan.com/2019/02/21/meituan-delivery-eta-estimation-in-the-practice-of-deep-learning.html)  
 
 - Pricing:
