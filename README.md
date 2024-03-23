@@ -24,3 +24,6 @@
 
 - Overview:
   - [Deep Learning Application](https://d2l.ai/chapter_preface/index.html)
+
+- Leetcode:
+  - [crack code interview](https://www.haio.ir/app/uploads/2021/12/Cracking-the-Coding-Interview-189-Programming-Questions-and-Solutions-by-Gayle-Laakmann-McDowell-z-lib.org_.pdf)
