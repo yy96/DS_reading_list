@@ -27,3 +27,6 @@
 
 - Leetcode:
   - [crack code interview](https://www.haio.ir/app/uploads/2021/12/Cracking-the-Coding-Interview-189-Programming-Questions-and-Solutions-by-Gayle-Laakmann-McDowell-z-lib.org_.pdf)
+
+- NLP:
+  - [introduction notebook](https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert) 
