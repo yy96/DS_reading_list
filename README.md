@@ -33,3 +33,6 @@
  
 - Testing:
   - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+
+- Model score calibration:
+  - [Model score calibration using ECE](https://towardsdatascience.com/expected-calibration-error-ece-a-step-by-step-visual-explanation-with-python-code-c3e9aa12937d/)
