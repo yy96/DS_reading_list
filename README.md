@@ -36,3 +36,6 @@
 
 - Model score calibration:
   - [Model score calibration using ECE](https://towardsdatascience.com/expected-calibration-error-ece-a-step-by-step-visual-explanation-with-python-code-c3e9aa12937d/)
+ 
+- Model Monitoring:
+  - [Model Excellence Scores: A Framework for Enhancing the Quality of Machine Learning Systems at Scale](https://www.uber.com/en-SG/blog/enhancing-the-quality-of-machine-learning-systems-at-scale/)
