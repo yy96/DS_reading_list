@@ -39,3 +39,6 @@
  
 - Model Monitoring:
   - [Model Excellence Scores: A Framework for Enhancing the Quality of Machine Learning Systems at Scale](https://www.uber.com/en-SG/blog/enhancing-the-quality-of-machine-learning-systems-at-scale/)
+ 
+- Agent
+  - Spotify, Background Coding Agents [part 1](https://engineering.atspotify.com/2025/11/spotifys-background-coding-agent-part-1) [part 2](https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2) [part 3](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3)
