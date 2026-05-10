@@ -49,3 +49,6 @@
   - [From Predictive to Generative – How Michelangelo Accelerates Uber’s AI Journey](https://www.uber.com/us/en/blog/from-predictive-to-generative-ai/)
   - [CNCF Operator White Paper](https://github.com/cncf/tag-app-delivery/blob/163962c4b1cd70d085107fc579e3e04c2e14d59c/operator-wg/whitepaper/Operator-WhitePaper_v1-0.md)
   - [Kubernetes API conventions](https://github.com/kubernetes/community/blob/main/contributors/devel/sig-architecture/api-conventions.md)
+ 
+- LLM training
+  - [Open Source and In-House: How Uber Optimizes LLM Training](https://www.uber.com/us/en/blog/open-source-and-in-house-how-uber-optimizes-llm-training/?uclick_id=b112c01f-7d82-452e-99dc-5560a1e7fffd&from_challenge=1)
