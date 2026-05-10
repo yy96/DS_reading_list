@@ -44,5 +44,6 @@
 - Agent:
   - Spotify, Background Coding Agents [part 1](https://engineering.atspotify.com/2025/11/spotifys-background-coding-agent-part-1) [part 2](https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2) [part 3](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3)
  
-- ML platform:
+- ML platform / ML Ops:
   - [From Predictive to Generative – How Michelangelo Accelerates Uber’s AI Journey](https://www.uber.com/us/en/blog/from-predictive-to-generative-ai/)
+  - [CNCF Operator White Paper](https://github.com/cncf/tag-app-delivery/blob/163962c4b1cd70d085107fc579e3e04c2e14d59c/operator-wg/whitepaper/Operator-WhitePaper_v1-0.md)
