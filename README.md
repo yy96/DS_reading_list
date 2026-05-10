@@ -20,8 +20,9 @@
 - Pricing:
   - [Left-Digit Bias at Lyft](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdad014/7045819?redirectedFrom=fulltext)  
 
-- Recommendation / Personalisation
+- Search & Recommendation / Personalisation
   - [NEON: Living Needs Prediction System in Meituan](https://arxiv.org/pdf/2307.16644.pdf)
+  - [Evolution and Scale of Uber’s Delivery Search Platform](https://www.uber.com/us/en/blog/evolution-and-scale-of-ubers-delivery-search-platform/?uclick_id=b112c01f-7d82-452e-99dc-5560a1e7fffd&from_challenge=1)
 
 - Overview:
   - [Deep Learning Application](https://d2l.ai/chapter_preface/index.html)
