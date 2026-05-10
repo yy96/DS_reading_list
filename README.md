@@ -14,7 +14,8 @@
   - on-demand food delivery problem
     - [An Imitation Learning-Enhanced Iterated Matching Algorithm for On-Demand Food Delivery](https://ieeexplore.ieee.org/abstract/document/9750976)
   - ETA prediction in Meituan
-    - [Overview](https://tech.meituan.com/2019/02/21/meituan-delivery-eta-estimation-in-the-practice-of-deep-learning.html)  
+    - [Overview](https://tech.meituan.com/2019/02/21/meituan-delivery-eta-estimation-in-the-practice-of-deep-learning.html)
+  - ETA prediction in Uber: [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://www.uber.com/us/en/blog/deepeta-how-uber-predicts-arrival-times/)
 
 - Pricing:
   - [Left-Digit Bias at Lyft](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdad014/7045819?redirectedFrom=fulltext)  
