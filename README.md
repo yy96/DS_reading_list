@@ -47,3 +47,4 @@
 - ML platform / ML Ops:
   - [From Predictive to Generative – How Michelangelo Accelerates Uber’s AI Journey](https://www.uber.com/us/en/blog/from-predictive-to-generative-ai/)
   - [CNCF Operator White Paper](https://github.com/cncf/tag-app-delivery/blob/163962c4b1cd70d085107fc579e3e04c2e14d59c/operator-wg/whitepaper/Operator-WhitePaper_v1-0.md)
+  - [Kubernetes API conventions](https://github.com/kubernetes/community/blob/main/contributors/devel/sig-architecture/api-conventions.md)
