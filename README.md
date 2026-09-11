@@ -52,6 +52,10 @@
  
 - LLM
   - [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
+  - [PRAGMA: Revolut Foundation Model](https://arxiv.org/pdf/2604.08649)
+
+- Agent
+  - [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://arxiv.org/pdf/2609.01437)   
  
 - LLM training
   - [Open Source and In-House: How Uber Optimizes LLM Training](https://www.uber.com/us/en/blog/open-source-and-in-house-how-uber-optimizes-llm-training/?uclick_id=b112c01f-7d82-452e-99dc-5560a1e7fffd&from_challenge=1)
